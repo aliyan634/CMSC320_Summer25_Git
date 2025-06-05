@@ -1,4 +1,10 @@
+/Users/aliyanahmad/Desktop/CMSC320_Summer25_Git
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data Science could be applied to machine learning, and we can use it
 to make sure the data is clean when providing training data for a model.
+
+Q1: Why might we consider using Git?
+
+Answer: Because it is an eaiser way to store, share,and work together on 
+projects such as the group project. 
