@@ -2,3 +2,8 @@ Q3: What is the difference between Merging and Rebasing?
 
 Answer: git merge combines changes from one branch into another branch and rebasing
 moves changes from one branch to another branch.
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking foward to gain as much knowledge about data science I can to 
+hopefully get a job in it in the future. 
+
